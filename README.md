@@ -67,7 +67,6 @@ A collaborative skill-exchange platform that connects people to learn, teach, an
 - LinkedIn: https://www.linkedin.com/in/jyoti-kumari-60bb20326  
 - LeetCode: https://leetcode.com/u/jyoti87/  
 - Discord: jyotisingh__8757  
-- Portfolio: yourportfolio.com  
 - Email: jyoti95023@gmail.com  
 - Work Email: jyoti@ganges.world  
 
